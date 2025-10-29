@@ -30,7 +30,6 @@ We believe in the power of collaboration and welcome contributions from the comm
 
 - 🌐 Website: [aicepower.com](https://aicepower.com)
 - 📧 Email: contact@aicepower.com
-- 🐦 Follow us for updates and announcements
 
 ## 📄 License
 
